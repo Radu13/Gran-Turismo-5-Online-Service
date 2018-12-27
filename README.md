@@ -2,4 +2,4 @@
 Project for emulate GT5 online server
 
 
-Looking for people to make tests and packet sniff from the game gaining useful data.
+Looking for people to make tests and sniff packets from the game gaining useful data.
